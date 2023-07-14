@@ -1,0 +1,1 @@
+const myObj =require("../src/concessions");
